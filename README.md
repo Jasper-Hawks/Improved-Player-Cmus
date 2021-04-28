@@ -1,6 +1,8 @@
 # Improved-Player-Cmus
 My version of the player-cmus script based on the [player-cmus script](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-cmus) in the polybar script repository.
 
+![example photo](cmusscript.png?raw=true)
+
 ## Installation
 Simply download the script to your polybar-scripts directory and place the module within your polybar config file. Make sure to add the module to your bar by typing the name of the module in the modules-center shown below.
 ```ini
